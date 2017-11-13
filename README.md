@@ -1,5 +1,5 @@
 # hello.world
 
-깃헙
-github
+깃헙\n
+github\n
 yeah~~~~~~~~~
